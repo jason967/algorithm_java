@@ -2,7 +2,7 @@
 .idea
 /out
 /target
-oracle.txt
-ex00.iml
+*.txt
+*.iml
 /upload
 /img
